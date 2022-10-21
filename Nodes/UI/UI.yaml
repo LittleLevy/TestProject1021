@@ -83,7 +83,6 @@ Children:
     ModellingRule: Optional
     Value: 400.0
   - Name: Label1
-    Id: g=52cb34f2678532d084513f1c318c711a
     Type: Label
     Children:
     - Name: Text
